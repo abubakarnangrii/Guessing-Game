@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: lightslategrey;
+}
+h1{
+    padding: 10px 0 0 20px;
+}
+
+p{
+    padding: 10px 0 0 20px;
+}
+
+#btn0{
+    margin: 30px 20px 0 50px;
+    background-color: black;
+    color: white;
+    height: 30px;
+    width: 80px;
+    border-radius: 6px;
+    border: 1px solid red;
+    font-size: 12pt;
+}
+
+#btn1{
+    margin: 30px 20px 0 10px;
+    background-color: black;
+    color: white;
+    height: 30px;
+    width: 80px;
+    border-radius: 6px;
+    border: 1px solid red;
+    font-size: 12pt;
+}
+#btn2{
+    margin: 30px 20px 0 10px;
+    background-color: black;
+    color: white;
+    height: 30px;
+    width: 80px;
+    border-radius: 6px;
+    border: 1px solid red;
+    font-size: 12pt;
+}
+#btn3{
+    margin: 30px 20px 0 10px;
+    background-color: black;
+    color: white;
+    height: 30px;
+    width: 80px;
+    border-radius: 6px;
+    border: 1px solid red;
+    font-size: 12pt;
+}
+#btn4{
+    margin: 30px 20px 0 10px;
+    background-color: black;
+    color: white;
+    height: 30px;
+    width: 80px;
+    border-radius: 6px;
+    border: 1px solid red;
+    font-size: 12pt;
+}
